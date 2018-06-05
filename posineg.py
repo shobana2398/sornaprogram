@@ -1,5 +1,5 @@
 num=int(input("Enter the number"))
-if(num<=10000):
+if(num<=100000):
 	if(num<0):
 		print("\nthat is negative number")
 	elif(num==0):
@@ -9,4 +9,4 @@ if(num<=10000):
 	else:
 		printf("The correctnumber")
 else:
-	print("The number is above 10000 please enter  less than 10000")
+	print("The number is above 100000 please enter  less than 10000")
